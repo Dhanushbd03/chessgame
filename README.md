@@ -3,7 +3,6 @@
 ## Overview
 
 This is a real-time chess website supporting two-player games. It is built using modern web technologies, including React for the frontend, WebSocket for real-time communication, Vite.js for development, and Node.js for the backend. The website is designed with a focus on providing an excellent user experience, offering a seamless and interactive interface for players.
-Here's an image section you can add to your README:
 
 ![preview](./screenshots/chess.png)
 
